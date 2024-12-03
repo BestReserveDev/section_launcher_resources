@@ -1,0 +1,23 @@
+{
+    "version": "1",
+    "authors": [
+        {
+            "username": "radibobovich",
+            "avatarRelativePath": "avatars/radibobovich.jpg",
+            "role": "Flutter-разработчик",
+            "description": null,
+            "contacts": {
+                "telegram": "https://t.me/radibobovich"
+            }
+        },
+        {
+            "username": "test",
+            "avatarRelativePath": null,
+            "role": "test",
+            "description": "test description",
+            "contacts": {
+                "telegram": "https://t.me/test"
+            }
+        }
+    ]
+}
