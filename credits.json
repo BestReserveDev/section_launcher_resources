@@ -4,7 +4,7 @@
         {
             "username": "radibobovich",
             "avatarRelativePath": "avatars/radibobovich.jpg",
-            "avatarPermalink": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/radibobovich.jpg",
+            "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/radibobovich.jpg",
             "role": "Flutter-разработчик",
             "description": null,
             "contacts": {
@@ -14,7 +14,7 @@
         {
             "username": "test",
             "avatarRelativePath": null,
-            "avatarPermalink": null,
+            "avatarRawUrl": null,
             "role": "test",
             "description": "test description",
             "contacts": {
