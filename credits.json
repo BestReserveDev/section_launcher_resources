@@ -2,24 +2,45 @@
     "version": "1",
     "authors": [
         {
+            "username": "Qua_ssack",
+            "avatarRelativePath": "avatars/qua_ssack.jpg",
+            "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/qua_ssack.jpg",
+            "role": null,
+            "description": null,
+            "contacts": {
+                "telegram": null
+            }
+        },
+        {
+            "username": "basika",
+            "avatarRelativePath": "avatars/basika.jpg",
+            "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/basika.jpg",
+            "role": "Админ сервера",
+            "description": null,
+            "contacts": {
+                "telegram": null
+            }
+        },
+        {
+            "username": "Lyubertsy",
+            "avatarRelativePath": "avatars/lyubertsy.jpg",
+            "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/lyubertsy.jpg",
+            "role": "Разработчик",
+            "description": null,
+            "contacts": {
+                "telegram": null
+            }
+        },
+        {
             "username": "radibobovich",
             "avatarRelativePath": "avatars/radibobovich.jpg",
             "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/radibobovich.jpg",
-            "role": "Flutter-разработчик",
+            "role": "Разработчик",
             "description": null,
             "contacts": {
                 "telegram": "https://t.me/radibobovich"
             }
-        },
-        {
-            "username": "test",
-            "avatarRelativePath": null,
-            "avatarRawUrl": null,
-            "role": "test",
-            "description": "test description",
-            "contacts": {
-                "telegram": "https://t.me/test"
-            }
         }
+
     ]
 }
