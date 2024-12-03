@@ -5,7 +5,7 @@
             "username": "Qua_ssack",
             "avatarRelativePath": "avatars/qua_ssack.jpg",
             "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/qua_ssack.jpg",
-            "role": null,
+            "role": "Админ сервера",
             "description": null,
             "contacts": {
                 "telegram": null
@@ -15,7 +15,7 @@
             "username": "basika",
             "avatarRelativePath": "avatars/basika.jpg",
             "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/basika.jpg",
-            "role": "Админ сервера",
+            "role": "Создатель сервера",
             "description": null,
             "contacts": {
                 "telegram": null
