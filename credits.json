@@ -22,17 +22,7 @@
             }
         },
         {
-            "username": "Lyubertsy",
-            "avatarRelativePath": "avatars/lyubertsy.jpg",
-            "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/lyubertsy.jpg",
-            "role": "Разработчик",
-            "description": null,
-            "contacts": {
-                "telegram": null
-            }
-        },
-        {
-            "username": "radibobovich (DedSec9)",
+            "username": "Alexis",
             "avatarRelativePath": "avatars/radibobovich.jpg",
             "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/radibobovich.jpg",
             "role": "Разработчик",
