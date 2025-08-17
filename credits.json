@@ -4,7 +4,7 @@
         {
             "username": "Qua_ssack",
             "avatarRelativePath": "avatars/qua_ssack.jpg",
-            "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/qua_ssack.jpg",
+            "avatarRawUrl": "https://github.com/BestReserveDev/section_launcher_resources/raw/main/avatars/qua_ssack.jpg",
             "role": "Админ сервера",
             "description": null,
             "contacts": {
@@ -14,8 +14,8 @@
         {
             "username": "basika",
             "avatarRelativePath": "avatars/basika.jpg",
-            "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/basika.jpg",
-            "role": "Создатель сервера",
+            "avatarRawUrl": "https://github.com/BestReserveDev/section_launcher_resources/raw/main/avatars/basika.jpg",
+            "role": "Кривозубое х....",
             "description": null,
             "contacts": {
                 "telegram": null
@@ -24,13 +24,32 @@
         {
             "username": "Alexis",
             "avatarRelativePath": "avatars/radibobovich.jpg",
-            "avatarRawUrl": "https://github.com/radibobovich/lr_launcher_resources/raw/main/avatars/radibobovich.jpg",
-            "role": "Разработчик",
+            "avatarRawUrl": "https://github.com/BestReserveDev/section_launcher_resources/raw/main/avatars/radibobovich.jpg",
+            "role": "Один из разрабов оригинального ЛР Лаунчера",
+            "description": null,
+            "contacts": {
+                "telegram": null
+            }
+        },
+        {
+            "username": "Lyubertsy",
+            "avatarRelativePath": "avatars/lyubertsy.jpg",
+            "avatarRawUrl": "https://github.com/BestReserveDev/section_launcher_resources/raw/main/avatars/lyubertsy.jpg",
+            "role": "Меинтейнер секции",
+            "description": null,
+            "contacts": {
+                "telegram": null
+            }
+        },
+        {
+            "username": "Rodionesse",
+            "avatarRelativePath": "avatars/Rodionesse.jpg",
+            "avatarRawUrl": "https://github.com/BestReserveDev/section_launcher_resources/raw/main/avatars/Rodionesse.jpg",
+            "role": "Главный по модам",
             "description": null,
             "contacts": {
                 "telegram": null
             }
         }
-
     ]
 }
