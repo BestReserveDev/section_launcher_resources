@@ -48,16 +48,17 @@
             "role": "Главный по модам",
             "description": null,
             "contacts": {
-                "telegram": null
-            },
-            {
+            "telegram": null
+            }
+        },
+        {
             "username": "Чо-хош Пишм",
             "avatarRelativePath": "avatars/reipashi.jpg.jpg",
             "avatarRawUrl": "https://github.com/BestReserveDev/section_launcher_resources/raw/main/avatars/reipashi.jpg",
             "role": "Корейский философ с цыганскими корнями",
             "description": null,
             "contacts": {
-                "telegram": null
+            "telegram": null
             }
         }
     ]
